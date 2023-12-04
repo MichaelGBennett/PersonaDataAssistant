@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bennett.util.NodeTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-04T20:44:06" hostname="DESKTOP-K32NG96" time="0.042">
+  <properties/>
+  <testcase name="removeLinkTest()" classname="com.bennett.util.NodeTests" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
